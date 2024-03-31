@@ -11,10 +11,10 @@ In this Jira project, the IT Helpdesk team focuses on efficiently resolving comm
 
 - **Common Problems**: The project focuses on addressing a wide range of common IT problems encountered by users on a day-to-day basis. This includes but is not limited to:
 
-  - Software installation and configuration issues
+  - Computer Freezes
   - Printer connectivity problems
-  - VPN setup and access issues
-  - Email configuration and troubleshooting
+  - Slow Computer
+  - Slow Internet and troubleshooting
   - Password resets and account lockouts
   - Missing Documents
 
