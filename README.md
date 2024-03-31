@@ -1,4 +1,5 @@
 IT HelpDesk With Jira
+![image](https://github.com/Malik-444/Jira-IT-Helpdesk-Project/assets/151242422/41eca0a7-3926-4636-8e96-d27027ecf15e)
 
 **Project Description: IT Helpdesk for Common Problems with SLAs Implementation**
 
